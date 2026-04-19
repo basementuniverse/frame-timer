@@ -11,7 +11,7 @@ npm install @basementuniverse/frame-timer
 ## How to use
 
 ```ts
-import { FrameTimer } from '@basementuniverse/frame-timer';
+import FrameTimer from '@basementuniverse/frame-timer';
 
 const timer = new FrameTimer(); // pass options if needed
 

@@ -11,7 +11,7 @@ export type FrameTimerOptions = {
   minFPS: number;
 };
 
-export class FrameTimer {
+export default class FrameTimer {
   private static readonly DEFAULT_OPTIONS: FrameTimerOptions = {
     minFPS: 30,
   };

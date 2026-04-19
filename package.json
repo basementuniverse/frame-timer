@@ -1,6 +1,6 @@
 {
   "name": "@basementuniverse/frame-timer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate FPS and elapsed time for browser games.",
   "main": "build/index.js",
   "scripts": {
